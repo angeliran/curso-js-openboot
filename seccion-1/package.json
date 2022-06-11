@@ -1,0 +1,24 @@
+{
+  "name": "seccion-1",
+  "version": "1.0.0",
+  "description": "Seccion 1 del curso js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "saludar": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeliran/curso-js-openboot.git"
+  },
+  "keywords": [
+    "cursobascico",
+    "javascript"
+  ],
+  "author": "Angel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeliran/curso-js-openboot/issues"
+  },
+  "homepage": "https://github.com/angeliran/curso-js-openboot#readme"
+}
